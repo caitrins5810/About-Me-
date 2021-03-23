@@ -14,3 +14,5 @@
 6. SEP 10
 7. Global History 4
 8. Algebra 2
+
+Reviewed by Wei
